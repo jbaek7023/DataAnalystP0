@@ -1,5 +1,19 @@
+P0 Analyze Bay Area Bike Share Data
+=======
 This folder contains files for P0: Analyze Bay Area Bike Share Data.
 
+## How to Setup
+1. Download [python](http://continuum.io/downloads)
+2. Download [Jupyter Notebook](https://d17h27t6h515a5.cloudfront.net/topher/2016/December/584f2948_dandp0-bikeshareanalysis/dandp0-bikeshareanalysis.zip)
+3. Download package 'seaborn'. Type this thing below 
+```
+pip install seaborn
+```
+
+## How to Run
+jupyter notebook Bay_Area_Bike_Share_Analysis.ipynb
+
+### Description
 Bay\_Area\_Bike\_Share\_Analysis.ipynb - Main project file.
 
 babs\_datacheck.py; babs\_visualizations.py - Supplemental scripts for checking
@@ -21,3 +35,6 @@ system.
 
 \*\_weather\_data.csv - Weather information by day for one station in each
 city in the bike share program.
+
+
+
